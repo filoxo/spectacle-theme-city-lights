@@ -6,5 +6,19 @@
   "repository": "https://github.com/filoxo/spectacle-theme-city-lights.git",
   "author": "Carlos Filoteo <c.filoteo@live.com>",
   "license": "CC4",
-  "private": false
+  "scripts": {
+    "prepare": "install-self-peers",
+    "build": "webpack"
+  },
+  "peerDependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "spectacle": "^1.2.5"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@team-griffin/install-self-peers": "^1.1.1",
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9"
+  }
 }
