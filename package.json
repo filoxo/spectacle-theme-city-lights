@@ -1,0 +1,10 @@
+{
+  "name": "spectacle-theme-city-lights",
+  "version": "0.0.1",
+  "description": "City Lights inspired Spectacle theme",
+  "main": "lib/index.js",
+  "repository": "https://github.com/filoxo/spectacle-theme-city-lights.git",
+  "author": "Carlos Filoteo <c.filoteo@live.com>",
+  "license": "CC4",
+  "private": false
+}
